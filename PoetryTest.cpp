@@ -32,7 +32,6 @@ PoetryTest::~PoetryTest()
             }                           \
         };
 
-/*
 int main()
 {
     //// test1:Init
@@ -42,14 +41,14 @@ int main()
 
     //// test2:Add first poem
     //cout << "----[Test2]----" << endl;
-    //string poem_content_1 = "È¥ÈÕ¿à¶à";
+    //string poem_content_1 = "åŽ»æ—¥è‹¦å¤š";
     //string character_content_1 = "qu-ri-ku-duo";
     //Poem* poem_1 = new Poem(poem_content_1, character_content_1);
     //poetry_system->AddPoem(poem_1);
 
     //// test3:Add second poem
     //cout << "----[Test3]----" << endl;
-    //string poem_content_2 = "¶àÇé×Ü±»ÎÞÇéÄÕ";
+    //string poem_content_2 = "å¤šæƒ…æ€»è¢«æ— æƒ…æ¼";
     //string character_content_2 = "duo-qing-zong-bei-wu-qing-nao";
     //Poem* poem_2 = new Poem(poem_content_2, character_content_2);
     //poetry_system->AddPoem(poem_2);
@@ -60,14 +59,14 @@ int main()
 
     //// test5:Add repeat poem
     //cout << "----[Test5]----" << endl;
-    //string poem_content_3 = "È¥ÈÕ¿à¶à";
+    //string poem_content_3 = "åŽ»æ—¥è‹¦å¤š";
     //string character_content_3 = "qu-ri-ku-duo";
     //Poem* poem_3 = new Poem(poem_content_3, character_content_3);
     //poetry_system->AddPoem(poem_3);
 
     //// test6:Select next poem
     //cout << "----[Test6]----" << endl;
-    //string poem_content_4 = "È¥ÈÕ¿à¶à";
+    //string poem_content_4 = "åŽ»æ—¥è‹¦å¤š";
     //string str_content_4 = "qu-ri-ku-duo";
     //Poem* poem_4 = new Poem(poem_content_4, str_content_4);
     //poetry_system->SelectNextPoem(poem_4);
@@ -171,4 +170,3 @@ int main()
     system("pause");
     return 1;
 }
-*/
